@@ -1,0 +1,1 @@
+{"query":"query get {\n\tfetch {\n\t\twhole\n\t\tfourth\n\t\tpure\n\t}\n}\n","operationName":"get","variables":{}}
